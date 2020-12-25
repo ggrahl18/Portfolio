@@ -1,5 +1,5 @@
 # React JS Resume Web App Template      
-![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
 ## Use this template to make your own portfolio
 ### 1. Make sure you have what you need
