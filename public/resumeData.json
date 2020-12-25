@@ -1,0 +1,176 @@
+{
+  "main": {
+    "name":"Garrett Grahl",
+    "occupation":"developer",
+    "description":"Design. Build. Evolve. It's what I do",
+    "image":"profilepic.jpg",
+    "bio":"Do you dream of hiring a versatile developer who is capable of learning beyond what is assumed to be normal? Look no further. I have worked in the Ethereum ecosystem building secured, decentralized apps, React websites, Java programs, utilized Mongo DB, from back end to front end. What makes me even more versatile is my abilitiy to communicate and work well with all people. I am just searching for my fit in a vast ecosystem of developers.",
+    "contactmessage":"Interested in contacting me? Send me a message below.",
+    "email": "ggrahl18@gmail.com",
+    "phone": "573-465-8386",
+    "address":{
+      "street":"2707 Hawken St. Apt. 7",
+      "city":"Bismarck",
+      "state":"North Dakota",
+      "zip": "58503"
+    },
+    "website": "https://github.com/ggrahl18",
+    "resumedownload":"https://github.com/ggrahl18",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/garrett.grahl",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/GarrettGrahl",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/garrett-grahl-613727177/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/garrettgrahl/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ggrahl18",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Over the last year I have strived to get up-to-date with current programming best practices, frameworks, libraries, and consumer demands.",
+    "education":[
+      {
+        "school":"Missouri University of Science and Technology",
+        "degree":"Associates in Computer Science",
+        "graduated":"December 2012",
+        "description":"Computer Science 101, Web Design, Algorithms, Basic Design and Implementation, Team Oriented Projects, Data Structures, Four Brothers Design Patterns"
+      },
+      {
+        "school":"B9Labs",
+        "degree":"Ethereum Smart Contract Development",
+        "graduated":"2020 - Current",
+        "description":"Development of smart contracts on the Ethereum Blockchain, using best practices, secure implementation, attack vestors, unit testing, and web integration."
+      },
+      {
+        "school":"Full Stack open 2020",
+        "degree":"JavaScript Master Class, ",
+        "graduated":"April 2020",
+        "description":"University of Helsinki JavaScript-based web development covering: React, Redux, Node.js, MongoDB, REST API's, Node.js"
+      },
+      {
+        "school":"Udemy Courses",
+        "degree":"Ethereum and Solidity, Java Programming Masterclass, The Complete JavaScript Course",
+        "graduated":"2020 - Current",
+        "description":"Learned additional skills in Java, JavaScript, Solidity, HTML, CSS, Node.js, Unit Testing, and much more."
+      }
+    ],
+    "work":[
+      {
+        "company":"Grahl Designs",
+        "title":"Stock News Alert System",
+        "years":"October 2020 - Present",
+        "description":"Java driven program that connects to a News API to scrape for newly posted articles. The program archives the articles and sends recipients the newest news via SMS."
+      },
+      {
+        "company":"B9Labs",
+        "title":"Splitter DApp",
+        "years":"March 2020 - April 2020",
+        "description":"Transaction splitting, decentralized application hosted on Infura and Heroku, running on an Ethereum testnet blockchain. A sender uses Metamask to send an equally split amount to two recipients."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Linux",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Java",
+        "level":"60%"
+      },
+      {
+        "name":"Solidity",
+        "level":"60%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"50%"
+      },
+      {
+        "name":"React",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Splitter",
+        "category":"Transaction Splitter smart contract on Ethereum",
+        "image":"finalSplitterDApp.png",
+        "url":"https://github.com/ggrahl18/Splitter"
+      },
+      {
+        "title":"News Scraper Program",
+        "category":"Java RSS Scraper & SMS Alert",
+        "image":"newsScraper-app.png",
+        "url":"newsScraper-app.png"
+      },
+      {
+        "title":"Portfolio",
+        "category":"Web Design - old school",
+        "image":"resume-screenshot.png",
+        "url":"https://github.com/ggrahl18"
+      },
+      {
+        "title":"Phone Book Application",
+        "category":"React App",
+        "image":"phonebook-app.png",
+        "url":"https://phonebook-app-froma-boss.herokuapp.com/"
+      },
+      {
+        "title":"Notes Application",
+        "category":"React App",
+        "image":"notes-app.png",
+        "url":"https://notes-app-react.herokuapp.com/"
+      },
+      {
+        "title":"Blog Logger Application",
+        "category":"React App",
+        "image":"blogLogger-app.png",
+        "url":"https://bloglogger-app.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Trust in the lord with all your heart, And lean not on your own understanding; In all your ways acknowledge Him, and He shall direct your paths.",
+        "user":"Proverbs 3:5-6"
+      }
+    ]
+  }
+}
