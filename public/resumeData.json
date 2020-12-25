@@ -141,9 +141,9 @@
       },
       {
         "title":"Portfolio",
-        "category":"Web Design - old school",
+        "category":"React Website - old school",
         "image":"resume-screenshot.png",
-        "url":"https://github.com/ggrahl18"
+        "url":"https://garrettgrahl-portfolio.herokuapp.com/"
       },
       {
         "title":"Phone Book Application",
