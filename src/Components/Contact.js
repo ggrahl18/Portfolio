@@ -36,7 +36,7 @@ class Contact extends Component {
          <div className="row">
             <div className="eight columns">
 
-               <form action="" method="post" id="contactForm" name="contactForm">
+               <form action="submit" method="post" id="contactForm" name="contactForm">
 					<fieldset>
 
                   <div>
@@ -81,7 +81,7 @@ class Contact extends Component {
 					   <h4>Address and Phone</h4>
 					   <p className="address">
 						   {name}<br />
-						   {street} <br />
+						   {/* {street} <br /> */}
 						   {city}, {state} {zip}<br />
 						   <span>{phone}</span>
 					   </p>

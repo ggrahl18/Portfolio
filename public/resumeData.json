@@ -7,15 +7,15 @@
     "bio":"Do you dream of hiring a versatile developer who is capable of learning beyond what is assumed to be normal? Look no further. I have worked in the Ethereum ecosystem building secured, decentralized apps, React websites, Java programs, utilized Mongo DB, from back end to front end. What makes me even more versatile is my abilitiy to communicate and work well with all people. I am just searching for my fit in a vast ecosystem of developers.",
     "contactmessage":"Interested in contacting me? Send me a message below.",
     "email": "ggrahl18@gmail.com",
-    "phone": "573-465-8386",
+    "phone": "701.955.8233",
     "address":{
-      "street":"2707 Hawken St. Apt. 7",
+      "street":"",
       "city":"Bismarck",
       "state":"North Dakota",
-      "zip": "58503"
+      "zip": "58501"
     },
     "website": "https://github.com/ggrahl18",
-    "resumedownload":"https://github.com/ggrahl18",
+    "resumedownload":"https://github.com/ggrahl18/GarrettGrahlResume/raw/main/Garrett%20Grahl%20Coding_Resume%20-%205-20-21.pdf",
     "social":[
       {
         "name":"facebook",
@@ -48,9 +48,9 @@
     "skillmessage":"Over the last year I have strived to get up-to-date with current programming best practices, frameworks, libraries, and consumer demands.",
     "education":[
       {
-        "school":"Missouri University of Science and Technology",
-        "degree":"Associates in Computer Science",
-        "graduated":"December 2012",
+        "school":"Bismarck State College",
+        "degree":"Associates in Science",
+        "graduated":"Summer 2021",
         "description":"Computer Science 101, Web Design, Algorithms, Basic Design and Implementation, Team Oriented Projects, Data Structures, Four Brothers Design Patterns"
       },
       {
@@ -97,11 +97,11 @@
       },
       {
         "name":"Java",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"Solidity",
-        "level":"60%"
+        "level":"40%"
       },
       {
         "name":"JavaScript",
@@ -109,7 +109,7 @@
       },
       {
         "name":"React",
-        "level":"60%"
+        "level":"50%"
       },
       {
         "name":"HTML5",
